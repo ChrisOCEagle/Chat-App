@@ -1,0 +1,19 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "my first chat application using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisOCEagle/Chat-App.git"
+  },
+  "author": "Christopher O'Connell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisOCEagle/Chat-App/issues"
+  },
+  "homepage": "https://github.com/ChrisOCEagle/Chat-App#readme"
+}
